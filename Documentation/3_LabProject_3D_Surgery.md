@@ -1,4 +1,4 @@
-![University of Barcelona Logo](././Images/3D_Orientation/figure1.png)
+![University of Barcelona Logo](././Images/Session1/figure1.png)
 
 ## Degree in Biomedical Engineering
 
