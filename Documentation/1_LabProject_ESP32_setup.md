@@ -1,4 +1,4 @@
-# **GEB Projects tools setup**
+# **GEB Projects tools setup hello**
 
 The objectives of this section are:
 - Setup an Engineering project in student's github
@@ -29,7 +29,6 @@ Now you are ready to work on Director's local repository project!
   git config --global user.email "mail@alumnes.ub.edu" 
   git config --global user.name "your github username"
   ````
-
 Select “Source control” in left lateral menu bar:
   - Press Add to synchronize all the changes
   - Add a commit comment
